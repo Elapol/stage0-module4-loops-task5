@@ -9,10 +9,7 @@ public class Triangle {
         for (int x = 1; x <= cathetusLength; x++) {
             for (int y = 1; y <= cathetusLength; y++) {
                 if (y <= x)
-
-
                     System.out.print("8");
-
                 }
                     System.out.println();
                 }
